@@ -1,0 +1,16 @@
+tensorflow
+numpy
+scipy
+matplotlib  
+scikit-learn
+pandas
+seaborn
+nltk    
+transformers
+torch
+torchvision
+torchaudio
+streamlit
+keras
+tensorflow_board
+tensorflow_hub
